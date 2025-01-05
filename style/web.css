@@ -13,3 +13,10 @@ p{
 h1,h2,h3,h4,h5,h6{
     color:greenyellow;
 }
+footer{
+    background-color: #74f4f0;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
