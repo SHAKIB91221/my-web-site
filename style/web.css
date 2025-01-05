@@ -11,10 +11,10 @@ p{
     font-weight: bold;
 }
 h1,h2,h3,h4,h5,h6{
-    color:greenyellow;
+    color:rgb(250, 27, 15);
 }
 footer{
-    background-color: #74f4f0;
+    background-color: #228582;
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
